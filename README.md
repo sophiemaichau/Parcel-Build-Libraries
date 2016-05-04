@@ -1,1 +1,1 @@
-Stopwatch library
+Stopwatch library for Photon and Arduino
