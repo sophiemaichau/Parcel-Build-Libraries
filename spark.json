@@ -1,9 +1,9 @@
 {
-  "name": "stopwatch",
-  "author": "Sophie <sophie_chau@hotmail.com>",
-  "keywords": "start, reset, stop",
+  "name": "StopWatch",
+  "author": "Rob Tillaart",
+  "keywords": "start, reset, stop, StopWatch",
   "description": "T..",
-  "version": "1.0.0",
+  "version": "STOPWATCH_LIB_VERSION 0.1.03",
   "include": "Arduino/stopwatch",
   "repository":
   {
