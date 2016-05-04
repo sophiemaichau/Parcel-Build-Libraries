@@ -12,6 +12,8 @@
 
 #define STOPWATCH_LIB_VERSION "0.1.03"
 
+#include "application.h"
+
 class StopWatch 
 {
 public:
