@@ -12,11 +12,7 @@
 
 #define STOPWATCH_LIB_VERSION "0.1.03"
 
-#if ARDUINO >= 100
-    #include "Arduino.h"
-#else
-    #include "WProgram.h"
-#endif
+
 
 class StopWatch 
 {
