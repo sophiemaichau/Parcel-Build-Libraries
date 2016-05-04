@@ -1,7 +1,9 @@
 {
   "name": "stopwatch",
+  "author": "Sophie <sophie_chau@hotmail.com>",
   "keywords": "start, reset, stop",
   "description": "T..",
+  "version": "1.0.0",
   "include": "Arduino/stopwatch",
   "repository":
   {
